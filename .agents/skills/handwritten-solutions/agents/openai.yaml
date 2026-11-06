@@ -1,0 +1,4 @@
+interface:
+  display_name: "仿手写解题页"
+  short_description: "参照本人样本制作解题图片或PDF，保留书写习惯并核验公式与页码"
+  default_prompt: "使用 $handwritten-solutions，参照我的手写样本核算题目并制作解题页，按我要求交付图片或PDF。"
